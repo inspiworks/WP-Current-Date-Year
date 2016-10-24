@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A plugin that gets current year, date, week and month. Just insert the appropriate shortcode and you're good to go. One good application of this plugin would be having a self updating copyright year in the website's footer.
+A Wordpress plugin that gets current year, date, week and month. Just insert the appropriate shortcode and you're good to go. One good application of this plugin would be having a self updating copyright year in the website's footer.
 
 == Description ==
 A plugin that gets current year, date, week and month. Just insert the appropriate shortcode and you're good to go. One good application of this plugin would be having a self updating copyright year in the website's footer.
